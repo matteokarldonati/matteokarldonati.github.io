@@ -4,3 +4,4 @@
 
 layout: home
 ---
+![42](/assets/index/x.jpg)
